@@ -1,0 +1,13 @@
+"cluster","Group","proportion"
+"Alpha","Control",0.334624211130235
+"Beta","Control",0.269560384394722
+"Delta","Control",0.0427782558806655
+"Epsilon","Control",0.00145223752151463
+"Stressed Beta","Control",0.025763769363167
+"unknown","Control",0.000215146299483649
+"Alpha","T2D",0.167491394148021
+"Beta","T2D",0.104005306942054
+"Delta","T2D",0.0115820424555364
+"Epsilon","T2D",0.000340648307515777
+"Stressed Beta","T2D",0.0109366035570855
+"unknown","T2D",0.03125
